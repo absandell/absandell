@@ -22,6 +22,11 @@ My areas of interest lie at the intersection of Computer Science and Economics -
 * _Operating Systems_
 * _Penetration Testing and Ethical Hacking_
 * _Malware Reverse Engineering_
+* _Calculus 1_
+* _Calculus 2_
+* _Calculus 3_
+* _Computational Linear Algebra_
+* _Numerical Analysis_
 ## Economics Coursework
 * _Intro to Microeconomics_
 * _Intro to Macroeconomics_
@@ -31,20 +36,3 @@ My areas of interest lie at the intersection of Computer Science and Economics -
 * _Competition in Healthcare Markets_
 * _Econometrics 1_
 * _Econometrics 2_
-## General Coursework
-* _Calculus 1_
-* _Calculus 2_
-* _Calculus 3_
-* _Computational Linear Algebra_
-* _Numerical Analysis_
-* _Physics 1_
-* _Physics 2_
-* _Chemistry 1_
-* _Engineering Ethics_
-* _Engineering Entrepreneurship_
-* _Introduction to French 1_
-* _Introduction to French 2_
-* _Introduction to Philosophy_
-* _Introduction to Metaphysics_
-* _Introduction to Sociology_
-* _Introduction to Neuroscience_
