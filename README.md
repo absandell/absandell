@@ -6,5 +6,5 @@ My areas of interest lie at the intersection of Computer Science and Economics -
 * _Axogen_   (02/2021 - Present)
 * _Infotech_ (05/2021 - 08/2021)
 
-## [_Portfolio Website_](https://andrewsandell.com)
-## [_Linkedin_](https://linkedin.com/in/absandell)
+### [_Portfolio Website_](https://andrewsandell.com)
+### [_Linkedin_](https://linkedin.com/in/absandell)
