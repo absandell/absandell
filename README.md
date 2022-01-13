@@ -13,4 +13,4 @@ Passionate about Cyber-Security, Back-end Development, Database Architecture, an
 # Important Links
 ### [_Portfolio Website_](https://andrewsandell.com)
 ### [_Linkedin_](https://linkedin.com/in/absandell)
-### [TryHackMe](https://tryhackme.com/p/absandell)
+### [_TryHackMe_](https://tryhackme.com/p/absandell)
