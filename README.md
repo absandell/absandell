@@ -3,6 +3,8 @@ I am a 4th Year Computer Science and Economics Double Major at the University of
 
 Passionate about Cyber-Security, Back-end Development, Database Architecture, and applied Econometrics using Machine Learning
 
+# Software Engineer
+### _Publix_ (Starting 05/2022)
 # Software Developer
 ### _StoryFaith_ (09/2021 - Present)
 
@@ -13,4 +15,4 @@ Passionate about Cyber-Security, Back-end Development, Database Architecture, an
 # Important Links
 ### [_Portfolio Website_](https://andrewsandell.com)
 ### [_Linkedin_](https://linkedin.com/in/absandell)
-### [_TryHackMe (Top 2%)_](https://tryhackme.com/p/absandell)
+### [_TryHackMe (Top 1%)_](https://tryhackme.com/p/absandell)
