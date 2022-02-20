@@ -1,5 +1,5 @@
 # About Me
-I am a 4th Year Computer Science and Economics Double Major at the University of Florida. I have worked since January 2021 as a Data Privacy and Protection Intern at Axogen. Additionally, I worked with Infotech during Summer 2021 as a Software Engineering Intern.
+I am a 4th Year Computer Science and Economics Double Major at the University of Florida. I have worked since January 2021 as a Data Privacy and Protection Intern at Axogen. Additionally, I worked with Infotech during Summer 2021 as a Software Engineering Intern. Upon graduation, I will be joining Publix as a Software Engineeer with the SRE and Cloud Engineering Team.
 
 Passionate about Cyber-Security, Back-end Development, Database Architecture, and applied Econometrics using Machine Learning
 
