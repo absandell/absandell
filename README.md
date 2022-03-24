@@ -10,14 +10,14 @@ Passionate about Cyber-Security, Back-end Development, Database Architecture, an
 </p>
 
 
-# Software Engineer
-### _Publix_ (Starting 05/2022)
-# Software Developer
-### _StoryFaith_ (09/2021 - Present)
+## Software Engineer
+- _Publix_ (Starting 05/2022)
+## Software Developer
+- _StoryFaith_ (09/2021 - Present)
 
-# Internships
-### _Axogen_   (02/2021 - Present)
-### _Infotech_ (05/2021 - 08/2021)
+## Internships
+- _Axogen_   (02/2021 - Present)
+- _Infotech_ (05/2021 - 08/2021)
 
 # Important Links
 ### [_Portfolio Website_](https://andrewsandell.com)
