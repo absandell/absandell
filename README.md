@@ -5,7 +5,7 @@ Passionate about Cyber-Security, Back-end Development, Database Architecture, an
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" alt="absandell's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=absandell&count_private=true&show_icons=true&theme=onedark&hide_rank=false&hide=stars">
+    <img src="https://github-readme-stats.vercel.app/api?username=absandell&count_private=true&show_icons=true&theme=gotham&hide_rank=false&hide=stars">
   </a>
 </p>
 
