@@ -9,7 +9,7 @@ Passionate about Cyber-Security, Back-end Development, Database Architecture, an
   </a>
 </p>
 
-
+# Experience
 ## Software Engineer
 - _Publix_ (Starting 05/2022)
 ## Software Developer
@@ -20,6 +20,6 @@ Passionate about Cyber-Security, Back-end Development, Database Architecture, an
 - _Infotech_ (05/2021 - 08/2021)
 
 # Important Links
-### [_Portfolio Website_](https://andrewsandell.com)
-### [_Linkedin_](https://linkedin.com/in/absandell)
-### [_TryHackMe (Top 1%)_](https://tryhackme.com/p/absandell)
+- [_Portfolio Website_](https://andrewsandell.com)
+- [_Linkedin_](https://linkedin.com/in/absandell)
+- [_TryHackMe (Top 1%)_](https://tryhackme.com/p/absandell)
