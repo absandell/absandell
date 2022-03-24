@@ -3,6 +3,13 @@ I am a 4th Year Computer Science and Economics Double Major at the University of
 
 Passionate about Cyber-Security, Back-end Development, Database Architecture, and applied Econometrics using Machine Learning
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" alt="absandell's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=absandell&count_private=true&show_icons=true&theme=onedark&hide_rank=false&hide=stars">
+  </a>
+</p>
+
+
 # Software Engineer
 ### _Publix_ (Starting 05/2022)
 # Software Developer
