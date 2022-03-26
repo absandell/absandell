@@ -3,7 +3,7 @@ I am a 4th Year Computer Science and Economics Double Major at the University of
 
 Passionate about Cyber-Security, Back-end Development, Database Architecture, and applied Econometrics using Machine Learning
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats" alt="absandell's GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=absandell&count_private=true&show_icons=true&theme=gotham&hide_rank=false&hide=stars">
   </a>
