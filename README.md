@@ -21,7 +21,7 @@ Passionate about Cyber-Security, Back-end Development, Database Architecture, an
 - _StoryFaith_ (09/2021 - Present)
 
 ## Internships
-- _Axogen_   (02/2021 - Present)
+- _Axogen_   (02/2021 - 05/2022)
 - _Infotech_ (05/2021 - 08/2021)
 
 # Important Links
