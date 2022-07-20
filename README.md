@@ -6,10 +6,10 @@ Passionate about Cyber-Security, Back-end Development, Database Architecture, an
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" alt="absandell's GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=absandell&count_private=true&show_icons=true&theme=panda&hide_rank=false&hide=stars">
+    <img src="https://github-readme-stats.vercel.app/api?username=absandell&count_private=true&show_icons=true&theme=jolly&hide_rank=false&hide=stars">
   </a>
   <a href = "https://github.com/anuraghazra/github-readme-stats" alt="absandell's Language Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absandell&theme=panda&count_private=true&show_icons=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=absandell&theme=jolly&count_private=true&show_icons=true&layout=compact">
   </a>
 </p>
 <p align = "center">
