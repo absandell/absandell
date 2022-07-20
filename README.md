@@ -17,9 +17,9 @@ Passionate about Cyber-Security, Back-end Development, Database Architecture, an
 
 # Experience
 ## Software Engineer
-- _Publix_ (Starting 05/2022)
+- _Publix_ (05/2022 - Present)
 ## Software Developer
-- _StoryFaith_ (09/2021 - Present)
+- _StoryFaith_ (09/2021 - 06/2022)
 
 ## Internships
 - _Axogen_   (02/2021 - 05/2022)
