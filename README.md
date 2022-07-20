@@ -15,10 +15,10 @@ Passionate about Secure Software Development, Cybersecurity, Cloud Architecture,
 <p align = "center"/>
 
 # Experience
-### Publix - Software Engineer (05/2022 - Present)
-### StoryFaith - Software Developer (09/2021 - 06/2022)
-### Axogen - Data Privacy and Protection Intern (02/2021 - 05/2022)
-### Infotech - Software Engineering Intern (05/2021 - 08/2021)
+- __Publix__ - Software Engineer (05/2022 - Present)
+- __StoryFaith__ - Software Developer (09/2021 - 06/2022)
+- __Axogen__ - Data Privacy and Protection Intern (02/2021 - 05/2022)
+- __Infotech__ - Software Engineering Intern (05/2021 - 08/2021)
 
 # Important Links
 - [_Portfolio Website_](https://andrewsandell.com)
