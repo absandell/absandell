@@ -1,7 +1,7 @@
 # About Me
 I am a Software Engineer at Publix working with the DevSecOps team. I recently graduated with a Computer Science and Economics Double Major from the University of Florida.
 
-Passionate about Secure Software Development, Cybersecurity, Cloud Architecture, and Machine Learning.
+Passionate about Secure Software Development, Cybersecurity, Cloud Architecture, High-Performance Computing, and Applied Cryptography.
 
 
 <p align="center">
